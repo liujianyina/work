@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>刘剑银</name>
+        <sex>男</sex>
+        <department>计算机工程学院</department>
+        <grade>12345</grade>
+    </student>
+    <student id="2">
+        <name>刘剑银</name>
+        <sex>男</sex>
+        <department>计算机工程学院</department>
+        <grade>123</grade>
+    </student>
+</students>

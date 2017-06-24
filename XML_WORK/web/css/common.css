@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#Main {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.MyButton, button {
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+

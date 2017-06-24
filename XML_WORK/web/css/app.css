@@ -1,0 +1,133 @@
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+header {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#user {
+    height: 50px;
+    width: 1024px;
+}
+
+#user_name {
+    float: right;
+}
+
+hr {
+    width: 1024px;
+}
+
+#content {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+#content table {
+    border-collapse: collapse;
+}
+
+#content table tr {
+    height: 40px;
+    line-height: 40px;
+}
+
+#content table th {
+    background-color: cornflowerblue;
+    color: #FFFAFA;
+}
+
+#content table tr:nth-child(even) {
+    background-color: gainsboro;
+}
+
+#content table tr td, #content table tr th {
+    width: 200px;
+    text-align: center;
+    font-family: "楷体";
+    font-size: 18px;
+}
+
+#content table tr:hover {
+    background-color: deepskyblue;
+    color: #FFFAFA;
+}
+
+#footer {
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+#footer {
+    margin-top: 100px;
+}
+
+#search {
+    float: right;
+}
+
+#keyword {
+    width: 200px;
+    height: 30px;
+}
+
+.index_button {
+    width: 80px;
+    height: 30px;
+}
+
+#show {
+    position: absolute;
+    width: 200px;
+}
+
+#show_ul {
+    list-style: none;
+    text-align: center;
+    background: grey;
+    color: #FFFAFA;
+    padding: 0px;
+    border: 1px solid white;
+}
+
+#show_ul li {
+    width: 198px;
+    height: 30px;
+    line-height: 30px;
+    font-family: "宋体";
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.mouseOver {
+    background: black;
+    color: #FFFAFA;
+}
+
+.mouseOut {
+    background: grey;
+    color: #FFFAFA;
+}
+
+.MyButton, button {
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+
+
